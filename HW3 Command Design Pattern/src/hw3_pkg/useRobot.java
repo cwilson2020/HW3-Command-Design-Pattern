@@ -30,11 +30,10 @@ public class useRobot {
 			}// end switch
 
 
-			System.out.println("\nChoose an action");
-			System.out.println("\nChoose an Action");
+			System.out.println("\nChoose an Action");			
 			System.out.println("1) Enter Sleep Mode ");
 			System.out.println("2) Wake Robot Up");
-			System.out.println("3) Perform usual Duties");
+			System.out.println("3) Perform Usual Duties");
 			System.out.println("4) Perform Self Diagnostics");
 			System.out.println("5) Perform Special Task"  );
 
