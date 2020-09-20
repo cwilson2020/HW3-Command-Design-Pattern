@@ -63,7 +63,7 @@ public class useRobot {
 			InvokerProtocol ivp5 = new  InvokerProtocol(sd);
 			ivp5.startInvoker();
 			break;
-			default: System.out.println("System Incorrect Selection");
+			default: System.out.println("Incorrect Selection");
 			break;
 			}//end switch
 		}
