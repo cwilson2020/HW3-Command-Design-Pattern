@@ -6,7 +6,7 @@ public class Repair_Robot implements RobotType{
 
 	@Override
 	public void exit_sleep_mode() {
-		System.out.println("Domestic Robot has been turned on");
+		System.out.println("Repair Robot has been turned on");
 		
 	}
 
@@ -18,7 +18,7 @@ public class Repair_Robot implements RobotType{
 
 	@Override
 	public void execute_main_protocol() {
-		System.out.println("Repair Robot has begun cleaning ");
+		System.out.println("Repair Robot has begun repairing objects ");
 		
 	}
 
@@ -30,7 +30,7 @@ public class Repair_Robot implements RobotType{
 
 	@Override
 	public void special_task() {
-			System.out.println("Repair Robot has started special task... " );
+			System.out.println("Repair Robot has started special tasks of repairing itself... " );
 		
 	}
 

@@ -30,7 +30,7 @@ public class Domestic_Robot implements RobotType{
 
 	@Override
 	public void special_task() {
-			System.out.println("Domestic Robot has started special task..." );
+			System.out.println("Domestic Robot has started special task of deep cleaning and decluttering..." );
 		
 	}
 
